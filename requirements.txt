@@ -1,0 +1,4 @@
+py-cord
+psycopg2
+git+https://github.com/YummyBacon5/speedruncompy.git # I would use the normal speedruncompy but the version on pip is outdated
+python-dotenv
